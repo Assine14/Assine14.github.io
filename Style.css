@@ -547,9 +547,17 @@ border-color: rgba(25, 75, 124, 0.338);
 .acc{
     background: transparent; color: goldenrod;
     border: groove;
-    border-color: rgba(95, 158, 160, 0.441);
-    background-image: url(back.jpg);
+    border-color: rgba(0, 0, 0, 0.531);
+    ;
     
+}
+.acc:hover{
+    background-color:rgba(0, 0, 0, 0.717);
+    color: rgb(255, 255, 255);
+    box-shadow:  5px 10px 8px goldenrod;
+    border-color: white;
+    width: 150px;
+    transition-duration: 1.5s
 }
 .A{
     text-decoration: none;
