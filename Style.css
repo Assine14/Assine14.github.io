@@ -563,9 +563,6 @@ border-color: rgba(25, 75, 124, 0.338);
     text-decoration: none;
 }
 
-.acc:hover{
-    background:transparent
-}
 #boda{
     background-image: url(azerty.jpg);
 background-attachment: fixed;
@@ -588,6 +585,9 @@ background-attachment: fixed;
     font-style: italic;
     color: goldenrod;
     text-decoration:underline ;
+}
+.pacc:hover{
+    color: black;
 }
 .secacc{ height: 200px;
     margin: 10%;
