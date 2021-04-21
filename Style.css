@@ -281,6 +281,7 @@ position:absolute;
     height: 100%;
     position: absolute;
     background-color: transparent;
+    border-color: transparent
 }
 .rio3{
     right: 0;
