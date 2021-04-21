@@ -129,17 +129,16 @@ border: 3px solid;
 text-align: center;
 ;font-weight:bolder ;font-size: 20px;
 border-color: rgba(25, 75, 124, 0.338);
-  padding: 10px;
-    background:transparent;opacity: 90%;
-     animation-name: taile;
-        animation-duration: 10s;
-        animation-timing-function: linear;
-        animation-iteration-count: infinite;
+    background:transparent;
         box-shadow: 5px 10px 8px #3c0861;
         text-decoration: underline;
-    
+    }
+.limar:hover{ transition-duration: 2s;
+    box-shadow: 5px 10px 8px #ffffff;
+    width: 130px;
 
-}
+}    
+
 
 
 @keyframes taille{
